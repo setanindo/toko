@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">PastiTerjual</string>
+
+    <string name="facebook_app_id">2438426152866285</string>
+    <string name="fb_login_protocol_scheme">fb2438426152866285</string>
+    <string name="gmap">AIzaSyAEvV_ph1a4dTCLC8LRUfwNeiRBB-Y1Z7E</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="_0">0</string>
+
+
+    <string-array name="year_array">
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+
+    </string-array>
+
+    <string-array name="month_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen_view">activity_fullscreen_view</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="tok">Nama Lengkap</string>
+    <string name="tok1">Email</string>
+    <string name="tok2">Nomor HP</string>
+    <string name="tok3">Kata Sandi</string>
+    <string name="tok4">Beri Ulasan</string>
+    <string name="tok5">Lokasi</string>
+    <string name="tok6">Tulis Pesan Anda</string>
+    <string name="tok7">Tulis Laporan Anda</string>
+    <string name="tok8">Kata Sandi Lama</string>
+    <string name="tok9">Kata Sandi Baru</string>
+</resources>

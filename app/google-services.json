@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "350725726078",
+    "firebase_url": "https://toko-76f5c.firebaseio.com",
+    "project_id": "toko-76f5c",
+    "storage_bucket": "toko-76f5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350725726078:android:90502d99c6f439a0",
+        "android_client_info": {
+          "package_name": "com.wahid.toko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350725726078-4497psj4akr52ek65sb9qurbck9rtrfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahid.toko",
+            "certificate_hash": "d0e6e29200658b7073377970e8d501b2216b696d"
+          }
+        },
+        {
+          "client_id": "350725726078-nlrdainkmmf399mcav5vu5v99t44078p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wahid.toko",
+            "certificate_hash": "fda3a405d13ae808c07e3f253d6c607cb2a22a64"
+          }
+        },
+        {
+          "client_id": "350725726078-pk0ipa4moklbl9p75mbhvqs4tt8ba00b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvV_ph1a4dTCLC8LRUfwNeiRBB-Y1Z7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350725726078-rrqk17u62o1a7mjbsinj8jqaaaf6fr8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
